@@ -57,7 +57,7 @@ Collaborators: Adam Szostek, Kacper Ptaszek
 
 ## Key Findings
 
-- The pre-trained ResNet-18 achieved **18% higher accuracy** compared to the custom model.
+- The pre-trained ResNet-18 achieved **12% higher accuracy** compared to the custom model.
 - The custom CNN has significantly more parameters but yields worse accuracy.
 - Training one epoch of the ResNet-18 model takes considerably more time.
 - Custom model requires more epochs to achieve acceptable accuracy.
